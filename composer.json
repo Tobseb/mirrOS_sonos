@@ -1,0 +1,6 @@
+{
+    "require": {
+        "duncan3dc/sonos": "^1.9",
+        "monolog/monolog": "^1.21"
+    }
+}

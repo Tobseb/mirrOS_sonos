@@ -1,0 +1,54 @@
+body {
+	background: black;
+	color: white;
+}
+
+.sonosContainer {
+	font-size: 20px;
+}
+
+.sonosThumbnail {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	padding: 5px 5px 0;
+	color: black;
+	width: 252px;
+	height: 252px;
+	text-align: center;
+
+}
+
+.sonosThumbnail img {
+	width: 242px;
+	height: 242px;
+}
+
+.sonosLeft {
+	float: left;
+	background: white;
+}
+
+.sonosRight {
+	padding-left: 272px;
+}
+
+.thumbnailCenter {
+	color: black;
+	padding-bottom: 4px;
+}
+
+.sonosRoom {
+	font-weight: bold;
+	text-align: left;
+	float: left;
+	margin-left: 10px;
+}
+
+.sonosRemaining {
+	text-align: right;
+	margin-right: 10px;
+}
+
+.sonosCurrent {
+	font-weight: bold;
+}

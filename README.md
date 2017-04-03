@@ -1,0 +1,1 @@
+# Sonos module for mirr.OS (by [glancr](https://glancr.de/mirr-os/))
